@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\imper\\source\\repos\\DeAngeloPreWork1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92D92656-6BA3-4058-83E6-4FD3E088EE41}|DeAngeloPreWork1\\DeAngeloPreWork1.csproj|c:\\users\\imper\\source\\repos\\deangeloprework1\\deangeloprework1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92D92656-6BA3-4058-83E6-4FD3E088EE41}|DeAngeloPreWork1\\DeAngeloPreWork1.csproj|solutionrelative:deangeloprework1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\imper\\source\\repos\\DeAngeloPreWork1\\DeAngeloPreWork1\\Program.cs",
+              "RelativeDocumentMoniker": "DeAngeloPreWork1\\Program.cs",
+              "ToolTip": "C:\\Users\\imper\\source\\repos\\DeAngeloPreWork1\\DeAngeloPreWork1\\Program.cs",
+              "RelativeToolTip": "DeAngeloPreWork1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T21:40:12.441Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

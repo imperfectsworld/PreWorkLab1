@@ -1,0 +1,14 @@
+C:\Users\imper\source\repos\DeAngeloPreWork1\DeAngeloPreWork1\bin\Debug\net8.0\DeAngeloPreWork1.exe
+C:\Users\imper\source\repos\DeAngeloPreWork1\DeAngeloPreWork1\bin\Debug\net8.0\DeAngeloPreWork1.deps.json
+C:\Users\imper\source\repos\DeAngeloPreWork1\DeAngeloPreWork1\bin\Debug\net8.0\DeAngeloPreWork1.runtimeconfig.json
+C:\Users\imper\source\repos\DeAngeloPreWork1\DeAngeloPreWork1\bin\Debug\net8.0\DeAngeloPreWork1.dll
+C:\Users\imper\source\repos\DeAngeloPreWork1\DeAngeloPreWork1\bin\Debug\net8.0\DeAngeloPreWork1.pdb
+C:\Users\imper\source\repos\DeAngeloPreWork1\DeAngeloPreWork1\obj\Debug\net8.0\DeAngeloPreWork1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\imper\source\repos\DeAngeloPreWork1\DeAngeloPreWork1\obj\Debug\net8.0\DeAngeloPreWork1.AssemblyInfoInputs.cache
+C:\Users\imper\source\repos\DeAngeloPreWork1\DeAngeloPreWork1\obj\Debug\net8.0\DeAngeloPreWork1.AssemblyInfo.cs
+C:\Users\imper\source\repos\DeAngeloPreWork1\DeAngeloPreWork1\obj\Debug\net8.0\DeAngeloPreWork1.csproj.CoreCompileInputs.cache
+C:\Users\imper\source\repos\DeAngeloPreWork1\DeAngeloPreWork1\obj\Debug\net8.0\DeAngeloPreWork1.dll
+C:\Users\imper\source\repos\DeAngeloPreWork1\DeAngeloPreWork1\obj\Debug\net8.0\refint\DeAngeloPreWork1.dll
+C:\Users\imper\source\repos\DeAngeloPreWork1\DeAngeloPreWork1\obj\Debug\net8.0\DeAngeloPreWork1.pdb
+C:\Users\imper\source\repos\DeAngeloPreWork1\DeAngeloPreWork1\obj\Debug\net8.0\DeAngeloPreWork1.genruntimeconfig.cache
+C:\Users\imper\source\repos\DeAngeloPreWork1\DeAngeloPreWork1\obj\Debug\net8.0\ref\DeAngeloPreWork1.dll
