@@ -76,6 +76,8 @@ public class deliverable1
 
             }
 
+        // Chips restock
+
         if (chips <= restock_chips)
         {
             Console.WriteLine("Chips needs to be restocked Now!!!");
@@ -85,6 +87,7 @@ public class deliverable1
         {
 
         }
+        // Candy Restock
 
         if (candy <= restock_candy)
         {
